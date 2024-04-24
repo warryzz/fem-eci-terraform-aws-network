@@ -1,2 +1,2 @@
 # fem-eci-terraform-aws-network
-Automation for GitHub
+Example organization AWS network automation from Enterprise Cloud Infrastructure on Frontend Masters.
